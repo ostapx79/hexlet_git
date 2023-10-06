@@ -1,0 +1,2 @@
+Haskel Curry
+Hello, Konstantin!
