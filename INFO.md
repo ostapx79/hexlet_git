@@ -1,2 +1,3 @@
-I love Hexlet!
-Something important.
+i love Hexlet.
+
+something important.
